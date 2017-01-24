@@ -1,0 +1,814 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Economic Analysis of the 
+Proposed Dust Testing and 
+Clearance Amendments to the 
+TSCA Lead Renovation, Repair, 
+and Painting Program for 
+Target Housing and Child-
+Occupied Facilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Economic and Policy Analysis Branch 
+Economics, Exposure and Technology Division 
+Office of Pollution Prevention and Toxics 
+U.S. Environmental Protection Agency 
+ 
+ 
+ 
+April 2010 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acknowledgment 
+ 
+EPA acknowledges the analytical and draft preparation support of Abt Associates Inc. of 
+Cambridge, Massachusetts, provided under Contract Nos. EP-W-08-10 and EP-W-05-022, in the 
+preparation of this report. 
+ 
+Notice 
+ 
+This is not an official guidance document and should not be relied upon to determine 
+applicable regulatory requirements.  This document was prepared to provide economic 
+information for the rulemaking process, and to meet various administrative and 
+legislative requirements.  Due to the nature of the information available to EPA, the 
+document contains various assumptions that may not reflect the regulatory 
+determinations that an individual firm would make were it to apply the rule's 
+requirements to its specific circumstances.  Persons seeking information on regulatory 
+requirements as they apply to specific facilities should consult 40 CFR Part 745, the 
+preamble for the regulatory action, EPA guidance documents, and EPA’s National 
+Lead Information Center. 
+Economic Analysis for the LRRP Clearance Proposed Rule 
+      Table of Contents 
+ 
+Executive Summary .............................................................................................................................. ES-1 
+Background........................................................................................................................................ ES-1 
+Overview of the LRRP Clearance Rule ............................................................................................. ES-1 
+Options Analyzed .............................................................................................................................. ES-3 
+Number of Events .............................................................................................................................. ES-4 
+Costs of the Proposed Rule................................................................................................................ ES-6 
+Benefits .............................................................................................................................................. ES-8 
+Small Entity Impacts.......................................................................................................................... ES-10 
+ 
+1. Introduction ................................................................................................................................ 1-1 
+1.1 Purpose of the LRRP Rule Revisions...................................................................................... 1-1 
+1.2 Goal of the Economic Analysis............................................................................................... 1-1 
+1.3 Organization of this Report ..................................................................................................... 1-3 
+ 
+2. Lead, Renovation, Repair, and Painting Industry Profile ...................................................... 2-1 
+2.1 Contractors that Supply Renovation Services ......................................................................... 2-2 
+2.2 Child Care and Schools: Child Occupied Facilities ................................................................ 2-10 
+2.3 Nonresidential Commercial Property Owners and Managers ................................................. 2-23 
+2.4 The Demand for Renovation Services..................................................................................... 2-24 
+2.5 Renovation Industry Market Structure .................................................................................... 2-26 
+2.6 Residential Property Owners & Managers .............................................................................. 2-28 
+2.7 Training Providers................................................................................................................... 2-30 
+2.8 Summary Characteristics: Numbers of Structures in the Regulated Universe ........................ 2-32 
+ 
+3. Problem Definition: Residential Lead-Based Paint Hazards and the Justification for 
+Regulation ................................................................................................................................... 3-1 
+3.1 Lead Contamination Problem.................................................................................................. 3-1 
+3.2 Regulatory Background........................................................................................................... 3-4 
+3.3 Justification for Federal Regulations of Lead Exposure during Renovation........................... 3-11 
+3.4 Approaches for Reducing Lead Exposure Resulting from Renovation .................................. 3-16 
+Appendix 3A:  The Role of Elasticities in Determining the Impacts of a Rule ............................... 3-19 
+3A.1  Elasticities of Supply and Demand .......................................................................................... 3-19 
+3A.2  How Price Elasticity of Demand Affects the RRP Rule .......................................................... 3-24 
+Appendix 3B:  Elasticities of Demand and Supply for Housing / Renovation Services.................. 3-26 
+ 
+4. Costs of the Lead, Renovation, Repair, and Painting Rule Revisions ................................... 4-1 
+4.1 Definitions of Options............................................................................................................. 4-2 
+4.2 Number of Events with Dust Wipe Testing or Clearance Requirements ................................ 4-4 
+4.3 Costs of Dust Sampling and Clearance ................................................................................... 4-34 
+4.4 Number of Sampling Technicians Seeking Training and Certification .................................. 4-63 
+4.5 Sampling Technician Training Costs ...................................................................................... 4-68 
+Economic Analysis for the LRRP Clearance Proposed Rule 
+4.6 Total Incremental Costs of Proposed LRRP Clearance Rule .................................................. 4-70 
+4.7 Alternative Baseline and Options............................................................................................ 4-74 
+ 
+5. Benefits of the Proposed LRRP Clearance Rule...................................................................... 5-1 
+5.1 Overview of Proposed LRRP Clearance Rule in Terms of Benefits Estimation .................... 5-1 
+5.2 Residents and Occupants of Structures Regulated by the Proposed LRRP Clearance Rule ... 5-5 
+5.3 Lead-Related Health Effects and Ecological Effects .............................................................. 5-12 
+ 
+6. Estimated Impacts of the Lead, Renovation, Repair, and Painting Rule Revisions............. 6-1 
+6.1 Paperwork Reduction Act ....................................................................................................... 6-1 
+6.2 Regulatory Flexibility Act....................................................................................................... 6-15 
+6.3 Unfunded Mandates Reform Act (UMRA)............................................................................. 6-43 
+6.4 Executive Order 13132 - Federalism....................................................................................... 6-45 
+6.5 Executive Order 13175 - Tribal Implications.......................................................................... 6-45 
+6.6 Protection of Children from Environmental Health Risk and Safety Risks ............................ 6-46 
+6.7 Executive Order 13211 - Energy Effects ................................................................................ 6-46 
+6.8 National Technology Transfer and Advancement Act ............................................................ 6-47 
+6.9 Executive Order 12898 – Environmental Justice .................................................................... 6-47 
+APPENDIX 6A – Estimating average per-pupil expenditures of private schools........................... 6-50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Economic Analysis for the LRRP Clearance Proposed Rule 
+ 
+ Executive Summary ES-1 
+Executive Summary  
+This report presents an economic analysis of alternative regulatory options for revising the lead, 
+renovation, repair and painting (LRRP) program regulations for target housing and child occupied 
+facilities (COFs).  The proposed LRRP Clearance Rule changes the LRRP program by requiring 
+renovators to perform dust wipe testing for a subset of renovation jobs, and requiring them to re-clean and 
+re-test for a second subset of renovation jobs if the tests show that lead dust levels exceed the established 
+clearance standards.   
+Background 
+Past use of lead-based paint has resulted in contamination that continues to pose human health hazards.  
+While intact lead-based paint is not likely to contribute to such hazards, the deterioration of a structure 
+over time or acute environmental stresses, such as are commonly present during renovation activities, has 
+been found to create lead hazards.  Since many buildings constructed before 1978 have lead-based paint, 
+it is likely that renovation activities in pre-1978 buildings will contribute to lead hazards unless 
+appropriate containment and clean-up practices are employed. 
+The LRRP rule for target housing and COFs was promulgated in 2008 (73 FR 21692) and is codified in 
+Part 745 of Title 40 of the Code of Federal Regulations (CFR).  The rule was promulgated under the 
+authority of §402(c) of the Toxic Substances Control Act (TSCA).  The existing LRRP regulations 
+require entities that perform renovation, repair and painting work for compensation in buildings covered 
+by the rule to become certified by EPA, ensure that their employees are trained as either renovators or 
+workers, and use lead-safe work practices when disturbing lead-based paint.   
+Overview of the LRRP Clearance Rule  
+Figure ES-1 provides a summary of the dust wipe testing and clearance requirements of the proposed rule, 
+and their relationship with the requirements of the 2008 LRRP rule.  The proposed LRRP Clearance Rule 
+would require dust wipe testing on uncarpeted floors and on window sills and troughs after the following 
+types of renovations that disturb lead-based paint: removing more than 40 ft2 of trim, molding, cabinets, 
+or other fixtures; removing or replacing of window or door frames; scraping 60 ft2 or more of painted 
+surfaces; or using a heat gun at temperatures below 1100 degrees Fahrenheit1.  Renovations using 
+machines that remove lead-based paint through high speed operation (such as power sanders or abrasive 
+blasting), or involving demolition or removal of more than 6 ft2 of plaster walls with lead-based paint 
+through destructive means, would require firms to demonstrate – through dust wipe testing – that they 
+have met clearance standards before the renovation will be considered complete.  (For interior surfaces, 
+the clearance standards are 40 μg/ft2 on floors, 250 μg/ft2 on interior windowsills, and 400 μg/ft2 on 
+window troughs.)  If any of the dust wipe test results exceed the interior clearance standards, the firm will 
+have to re-clean and re-test the area that failed.  The proposed rule allows renovation firms to stop after 
+the second failed clearance test, regardless of the result, if the renovation firm did not agree to refinish the 
+surface that is failing clearance as part of the renovation contract.  In such instances, the renovation firm 
+would only have to re-clean and test the surface again, no matter what the second dust wipe testing result 
+is.  In contrast, the economic analysis assumes that if the second dust wipe testing result fails the 
+clearance test, the renovation firm would have to re-clean the surface a second time and test the surface a 
+third time.  Therefore, the economic analysis overestimates the cost of the clearance requirement. 
+ 
+                                                     
+1 Under the 2008 LRRP rule at 40 CFR 745.85(a)(3)(iii), operating a heat gun on lead-based paint is permitted only at 
+temperatures below 1100 degrees Fahrenheit.  
+Economic Analysis for the LRRP Clearance Proposed Rule 
+ 
+Figure ES-1: Summary of Required Activities for Performing Dust Wipe Testing and Clearance 
+ 
+ 
+ Executive Summary ES-2 
+Economic Analysis for the LRRP Clearance Proposed Rule 
+ 
+ Executive Summary ES-3 
+Options Analyzed  
+This economic analysis considers several regulatory options, which are described below and summarized 
+in Table ES-1 and Table ES-2.   
+1. Low Threshold Option 
+ Dust wipe testing is required for renovations that disturb more than 6 square feet of 
+lead-based paint through removing trim, molding, cabinets, or other fixtures; removal 
+or replacement of window or door frames; scraping painted surfaces; or the use of a 
+heat gun. 
+ Clearance is required for renovations that disturb lead-based paint through: 
+- High-speed machine removal of paint larger than 6 square feet; or 
+- Plaster removal using destructive means, larger than 6 square feet. 
+ 
+2. Proposed Rule Threshold Option 
+ Dust wipe testing is required for renovations that disturb lead-based paint through: 
+- Removal of more than 40 square feet of trim, molding, cabinets, or other fixtures; 
+- Scraping more than 60 square feet of paint; 
+- Using a heat gun to remove more than 6 square feet of paint; or 
+- Removing a window frame or door frame. 
+ Clearance is required for renovations that disturb lead-based paint through: 
+- High-speed machine removal of more than 6 square feet of paint; or 
+- Demolition or removal using destructive means of more than 6 square feet of 
+plaster. 
+ 
+3. High Threshold Option 
+ Dust wipe testing is required for renovations that disturb lead-based paint through: 
+- Removal of more than 80 square feet of trim, molding, cabinets, or other fixtures;  
+- Scraping more than 120 square feet of paint; 
+- Using a heat gun to remove more than 60 square feet of paint; or 
+- Disturbing paint by removing a window frame or door frame. 
+ Clearance is required for renovations that disturb lead-based paint through:  
+- High-speed machine removal of more than 60 square feet of paint; or 
+- Demolition or removal using destructive means of more than 60 square feet of 
+plaster. 
+ 
+4. Third Party Sampling Option 
+ Applies to the same renovations and size thresholds as the proposed rule.  
+ Dust wipe testing and clearance are required in the same instances as the proposed 
+rule option but dust wipe sampling must be performed by an independent third party.  
+ 
+5. Dust Wipe Testing Only Option 
+ Applies to the same renovations and size thresholds as the proposed rule.  
+ Achieving clearance is not required.   
+ 
+6. Clearance Only Option 
+ Applies to the same renovations and size thresholds as the proposed rule.  
+ Clearance must be achieved in all of these renovations. 
+Economic Analysis for the LRRP Clearance Proposed Rule 
+ 
+ Executive Summary ES-4 
+Table ES-1: Options Included in Economic Analysis 
+Option Size Threshold Dust Wipe Testing and Clearance Third Party Requirement 
+Low Threshold 
+Option 
+Size thresholds are 
+lower or equal to 
+proposed rule 
+No 
+Proposed Rule  Size thresholds are as proposed No 
+High Threshold 
+Option 
+Size thresholds are 
+higher or equal to 
+proposed rule 
+Dust wipe testing is required for: 
+1. cabinet and trim events 
+2. scraping of paint  
+3. heat gun removal of paint 
+4. Window frame or door frame removal events 
+ 
+Clearance is required for: 
+1. high-speed machine removal of paint 
+2. plaster removal using destructive means No 
+Third Party 
+Sampling Option Same as Proposed. 
+Dust wipe testing and clearance are required in 
+the same instances as proposed but dust wipe 
+sampling must be performed by an independent 
+third party. 
+Yes 
+Dust Wipe Testing 
+Only Option Same as Proposed. 
+Dust wipe testing is required in instances where 
+dust wipe testing or clearance is required under 
+the proposed option. 
+No 
+Clearance Only 
+Option Same as Proposed. 
+Clearance is required in instances where dust 
+wipe testing or clearance is required under the 
+proposed option. 
+No 
+ 
+Table ES-2: Size Thresholds of the Options Included in Economic Analysis 
+Threshold (square feet) 
+Activity Event Type Low Proposed High 
+Trim/Molding/Cabinet Removal 6 40 80 
+Window / Door Frame Removal n/a n/a n/a 
+Painting w/ Scraping 6 60 120 Dust Wipe Testing Only 
+Painting w/ Heat Gun 6 6 60 
+Paint Removal w/ High-Speed Machines a 6 6 60 Both Dust Wipe Testing and 
+Clearance Plaster Removal w/ Destructive Means 6 6 60 
+a Under the 2008 LRRP rule at 40 CFR 745.85(a)(3)(ii), the use of machines that remove lead-based paint through high speed 
+operation such as sanding, grinding, power planing, needle gun, abrasive blasting, or sandblasting, is prohibited unless such 
+machines are used with HEPA exhaust control. 
+ 
+Number of Events 
+The proposed rule would affect approximately 1.6 million renovations per year.  By comparison, the 
+LRRP program applies to 18.7 million renovations each year, of which 7.4 million use lead-safe work 
+practices (because they test positive for lead-based paint, and are conducted in compliance with the rule). 
+2 
+Table ES-3 indicates the estimated number of renovation events affected by the different options by type 
+of renovation and threshold size.  In about 1.5 million renovations (96% of those affected by the proposed 
+rule), dust wipe testing would be required without a requirement to achieve clearance.  The most common 
+                                                     
+2 The number of events is estimated under a baseline scenario where the opt-out provision of the 2008 LRRP rule has 
+been eliminated, as was proposed in October 2009 (74 FR 55506).   
+Economic Analysis for the LRRP Clearance Proposed Rule 
+ 
+single event activities covered by the rule are window or door frame removal, followed by trim, molding, 
+or cabinet removal.  But the most common regulated activity overall involves multiple regulated activities 
+occurring during the course of a single job (e.g., a renovation with both window frame removal and trim 
+removal).   
+ 
+Table ES-3: Thousands of Regulated Events by Event Type and Optiona – First Year 
+Activity Event Type 
+Low 
+Threshold 
+Proposed 
+Threshold 
+High 
+Threshold 
+Heat gun, < 1000 degrees 4 4 <1 
+Window/door frame removal 484 514 545 
+Scraping 40 2 <1 
+Trim, molding, cabinet removal 687 437 207 
+Multiple activity eventsb 607 572 449 
+ 
+Dust Wipe Testing 
+Only 
+Subtotal, dust wipe testing 1,822 1,528 1,201 
+High speed machines 4 4 2 
+Plaster demolition through destructive means 21 29 31 
+Multiple activity eventsb 44 36 25 
+Both Dust Wipe 
+Testing and 
+Clearance 
+Subtotal, clearance events 69 69 58 
+Total, All Event Types 1,891 1,597 1,259 
+Totals may not add due to rounding. 
+a The third party sampling option, the dust wipe testing only option, and the clearance only option impact the same total 
+number of events as the proposed threshold option. 
+b Multiple event types occurring during the course of a single job (e.g., a renovation with both window frame removal and 
+trim removal).  Because the probability of multiple-activity events varies with the size threshold, the number of events for 
+single-event activities is not consistent across size thresholds. 
+ 
+Figure ES-2 shows the distribution of events by event type for the proposed threshold. 
+ 
+Figure ES-2: Total First Year Events by Type - Proposed Threshold 
+Multiple activity events 
+with at least one 
+clearance event
+2% of all clearance rule jobs
+High speed machine 
+paint removal events only
+< 1% of all clearance rule 
+jobs
+Scraping events only
+< 1%
+Clearance
+4%
+Trim, molding, cabinet 
+removal events only
+27%
+Plaster demoli ion 
+through destructive 
+means events only
+2% of all clearance rule jobs
+Multiple activity dust testing 
+events [no clearance events]
+36%
+Heat gun events only
+< 1%
+Window/door frame 
+removal events only
+32%
+ 
+ 
+ Executive Summary ES-5 
+Economic Analysis for the LRRP Clearance Proposed Rule 
+ 
+ Executive Summary ES-6 
+Renovations requiring clearance make up about 4% of the renovations affected by the proposed rule (and 
+1% of all renovations using lead-safe work practices under the LRRP program).  Multiple activity events 
+(including combinations of clearance events and dust wipe testing only events) are the most common 
+activities requiring clearance, followed by the demolition or removal of plaster through destructive 
+means, and using machines that remove paint through high speed operations. 
+There are an estimated 1.9 million regulated events per year under the low threshold option and 1.3 
+million regulated events per year under the high threshold option.  The distribution of event types under 
+these alternate options (in terms of the relative frequency of different single and multiple event activities) 
+is similar to the proposed threshold option.  There are an estimated 1.6 million regulated events per year 
+under the third party sampling option, the dust wipe testing only option, and the clearance only option, the 
+same as under the proposed threshold option. 
+Costs of the Proposed Rule  
+Dust wipe testing costs are expected to vary according to the number of samples taken, which depend on 
+the number of rooms in the work area and whether or not the room is carpeted.  For a typical one-room 
+renovation event, four samples would be required (window sill, window trough, workroom floor, and 
+adjacent room floor).  For a renovation event where both the renovated room and the adjacent room are 
+carpeted, only two samples would be required (window sill and window trough).  Each additional room 
+inside the work area will add two to three dust wipes depending on whether or not the room is carpeted 
+and whether or not there are windows in the work area.  However samples are not required for more than 
+four rooms in a unit’s work area. 
+All entities that conduct renovations covered by the proposed Clearance Rule will have to use a trained 
+dust sampling technician to take dust samples and have them tested.  (A trained dust sampling technician 
+is an individual who has successfully completed a dust sampling technician course accredited by EPA or 
+an EPA-authorized State or Tribal program.)  Renovators can either hire a third-party dust sampling 
+technician or have themselves or one of their employees trained as a dust sampling technician.  Which 
+approach they choose may depend on several factors, including the number of renovations they perform 
+each year covered by the proposed rule. 
+The average cost for a renovation firm to hire a third-party lead evaluation firm to take the dust wipe 
+samples, send them to a lab for testing, and provide a one-page report is estimated to be a fixed cost of 
+$158 and a variable cost of $26 per sample.  Thus, the cost to hire a third party to take four dust samples, 
+send them to a lab for analysis, and provide a short report is estimated to be $262.  Given that some 
+covered renovations take place in more than one room (so that more than four samples may be required, 
+depending on whether uncarpeted floors and windows are present), the average cost of the dust testing 
+requirement is nearly $300 per job if a third party dust sampling technician is used.  
+Firms performing multiple renovations a year where dust wipe testing is required can save money by 
+having the renovator or a worker trained as a dust sampling technician.  This requires taking an eight hour 
+initial training course (and a four hour refresher course every five years thereafter), at an estimated 
+annualized cost of $146 per year.  For renovators that perform multiple covered renovations per year, the 
+savings from using their own dust sampling technician are much greater than the annualized cost of the 
+dust sampling technician training.  Dust testing for these samples will cost these renovators an average of 
+approximately $170 per job (including training costs), a savings of $130 per job compared to using a third 
+party dust sampling technician.  The analysis assumes that over 233,000 renovators will choose to 
+become trained as dust sampling technicians so that they can collect samples for their own renovations.  
+The proposed rule does not require them to become trained, but many renovators may find it more 
+economical to do so rather than hiring a third party to take the samples.   
+Economic Analysis for the LRRP Clearance Proposed Rule 
+ 
+ Executive Summary ES-7 
+The cost of dust wipe testing for a job will vary based on the number of surfaces that must be tested, and 
+whether the dust sampling is done in-house or by a third-party firm.  Overall, typical costs are estimated 
+to vary from $120 to $340 per job.  A typical renovator will have 3 to 38 jobs per year requiring dust wipe 
+sampling, with an average of 7 such jobs per year. 
+For clearance events (use of a high-speed paint removal machine or demolition or destructive removal of 
+over 6 sq. ft. of plaster), renovators would incur similar dust wipe testing costs, in terms of the cost per 
+test.  Re-cleaning and re-sampling are only necessary for a subset of events in which a surface fails the 
+first round of clearance testing.  In the event of a failed clearance test, only the component(s) that failed 
+the tests must be re-cleaned.  For example, if the window sill sample failed clearance but the window 
+troughs and the floors passed, the window sill must be re-cleaned but the window troughs and the floors 
+do not need to be re-cleaned.  These re-cleaning costs vary from job to job, depending on the number and 
+type of components that failed and the size of the space that must be cleaned.  Overall, re-cleaning costs 
+are estimated to vary from $43 to up to $5,172 per job, although the costs for a typical job are expected to 
+be at the very low end of the range.  (The high end of the range reflects a COF where 14 rooms are 
+renovated and where all floor, sill and trough samples fail two rounds of clearance testing and are re-
+cleaned twice.  This is an overestimate, since the rule does not require a second re-cleaning or a third 
+round of testing.) 
+Table ES-4 summarizes the annualized work practice costs by event type for the three different threshold 
+options.  This table does not include training costs for renovators who choose to become trained as a dust 
+sampling technician, since the training costs are not specific to individual event types. 
+ 
+Table ES-4: Total Incremental Annualized Work Practice Costs by Event Type (3 
+percent discount rate, million 2008$) 
+Activity Event Type 
+Low 
+Threshold
+Proposed 
+Threshold 
+High 
+Threshold 
+Heat gun, < 1000 degrees <$1 $1 <$1 
+Window/door frame removal $70 $75 $79 
+Scraping $5 <$1 <$1 
+Trim, molding, cabinet removal $93 $59 $28 
+Multiple activity eventsa $99 $94 $75 
+ 
+Dust Wipe 
+Testing 
+Subtotal, dust wipe testing $268 $228 $182 
+High speed machines $1 $1 $1 
+Plaster demolition through destructive 
+means $4 $5 $6 
+Multiple activity eventsa $10 $9 $6 
+Dust Wipe 
+Testing and 
+Clearance 
+Subtotal, clearance events $15 $14 $12 
+Total, All Event Types $283 $242 $195 
+Totals may not add due to rounding. 
+a Multiple event types occurring during the course of a single job (e.g., a renovation with both window 
+frame removal and trim removal). 
+ 
+Table ES-5 shows the total costs (including both work practice costs and training costs) for all six 
+options.  Costs are higher in the first year to reflect the renovators who choose to become trained as dust 
+sampling technicians in order to take their own dust wipe samples. 
+Economic Analysis for the LRRP Clearance Proposed Rule 
+ 
+ Executive Summary ES-8 
+Table ES-5: Total Incremental Costs of Proposed LRRP Clearance Rule 
+(millions 2008$) 
+Annualized Total 
+Option Year 1 Year 2 3% 7% 
+Low Threshold $435 $321 $312 $336 
+Proposed Threshold $393 $279 $272 $293 
+High Threshold $343 $229 $224 $242 
+Third Party Sampling $451 $449 $431 $459 
+Dust Wipe Testing Only $388 $274 $268 $288 
+Clearance Only  $492 $377 $367 $394 
+ 
+Benefits 
+A great deal of information on the numerous adverse health effects of lead is available from decades of 
+medical observation and scientific research.  Inhaled or ingested lead is distributed throughout the body 
+and is toxic to many organ systems.  As a result, its toxicity manifests itself in the form of impacts on 
+several organ systems.  A reduction in lead exposure resulting from the rule would lead to a reduction in 
+these adverse health effects and the costs of treating them.  Young children (from birth through age five) 
+are particularly sensitive to lead, which impairs a child’s neuropsychological development (frequently 
+measured by IQ change).   
+These cognitive and behavioral effects, discussed above, are strongly related to future productivity and 
+expected earnings.  The estimated value of an IQ point is approximately $13,000, which represents the 
+present value of a loss in expected lifetime earnings due to a one point IQ drop.  This estimated value of 
+an IQ point is limited to reduced income, and does not include other potential impacts such as additional 
+education costs for special and remedial education, and medical costs to treat very high levels of lead.   
+Investigating associations between lead exposure and behavior, mood, and social conduct of children has 
+been an emerging area of research.  Early studies indicated linkages between lower-level lead toxicity and 
+behavioral problems (e.g., aggression, attentional problems, and hyperactivity) in children.  Blood-lead 
+and tooth-lead levels have been associated with behavioral features of attention-deficit hyperactivity 
+disorder (ADHD), including distractibility, poor organization, lack of persistence in completing tasks, and 
+daydreaming, in various cohorts of children with a wide range of lead exposures.  The relationship 
+between lead exposure and delinquent and criminal behavior also has been addressed in several 
+investigations.  Studies linking attention deficits, aggressive and disruptive behaviors, and poor self-
+regulation with lead have raised the prospect that early exposure may result in an increased likelihood of 
+engaging in antisocial behaviors in later life.  Elevated lead levels have been associated with several 
+measures of behavioral disturbance and delinquent behavior. 
+Epidemiologic studies have consistently demonstrated associations between lead exposure and enhanced 
+risk of deleterious cardiovascular outcomes, including increased blood pressure and increased 
+hypertension.   
+Both epidemiologic and toxicologic studies have shown that environmentally relevant levels of lead affect 
+many different organ systems.  Neurotoxic effects in children and cardiovascular effects in adults are 
+among those best substantiated as occurring at blood-lead concentrations as low as 5 to 10 ug/dL (or 
+possibly lower); and these categories of effects are currently of greatest public health concern.  Other 
+newly demonstrated immune and renal system effects among general population groups are also emerging 
+as low-level lead exposure effects of potential public health concern.  It appears that some of these 
+effects, particularly changes in the levels of certain blood enzymes and in aspects of children's 
+Economic Analysis for the LRRP Clearance Proposed Rule 
+ 
+ Executive Summary ES-9 
+neurobehavioral development, may occur at blood-lead levels so low as to be essentially without a 
+threshold.   
+The proposed LRRP Clearance Rule would require dust wipe testing after many of the renovation, repair, 
+and painting (RRP) activities regulated under the 2008 LRRP rule, and would require clearance after a 
+smaller subset of RRP activities.  The clearance requirements of the proposed LRRP Clearance Rule are 
+expected to result in lower exposures to dust lead by reducing the amount of dust lead left behind after 
+RRP activities.  Two types of benefits are expected to be realized from the proposed dust wipe testing 
+requirements.  The first type is the direct benefits of the information to the owners and occupants, which 
+includes the value of the information on dust lead levels remaining in the renovation work area.  For 
+building owners and occupants, this information is likely to improve their understanding and awareness of 
+dust lead hazards.  It will also greatly improve their ability to make further risk management decisions.  
+This information is particularly critical where dust lead levels approach or exceed the regulatory hazard 
+standards.  The second benefit expected to be realized from the proposed dust wipe testing requirements 
+stems from changed behavior on the part of renovation firms.  EPA believes that dust wipe testing results 
+will also provide valuable feedback to renovation firms on how well they are cleaning up after 
+renovations.  It is likely that the specific dust lead levels contained in dust wipe testing results will 
+increase renovation firm cleaning efficiency.  Renovation firms will be incentivized to lower the dust lead 
+levels remaining after renovation jobs, even if the levels are at or near the regulatory standards.  Because 
+proper cleanup plays such a vital role in the minimization of dust lead hazards created by renovations, 
+providing information on dust lead levels remaining after renovations to building owners and occupants 
+will serve as an incentive for firms to perform post-renovation cleaning efficiently and thoroughly, 
+reducing the amount of dust lead left behind after RRP. 
+The proposed rule will protect children and adults residing in target housing and attending a COF from 
+exposure to lead dust from renovations in a variety of situations.  It will result in fewer homes being 
+purchased with pre-existing lead hazards.  It is common for home owners to perform activities that disturb 
+paint before selling a house.  The proposed rule decreases the likelihood of lead hazards being present 
+when new occupants move into the home.  And the proposed rule will also benefit individuals visiting a 
+friend, relative, or caregiver’s house where a renovation has been performed. 
+The number of individuals residing in target housing and attending COFs with renovations affected under 
+the different options is shown in Table ES-6.  The proposed rule would protect 8.4 million such 
+individuals per year, including 809,000 children under the age of 6 and 96,000 pregnant women.  (This is 
+important because the transplacental transfer of lead in humans is well documented, and infants are 
+generally born with a lead body burden reflecting that of the mother.)  The estimates are limited to 
+residents in target housing and children attending COFs, and do not include other groups such as 
+individuals who move into housing after a renovation has been performed, or who visit a friend or 
+relative’s house. 
+ 
+Economic Analysis for the LRRP Clearance Proposed Rule 
+ 
+ Executive Summary ES-10 
+Table ES-6:  Thousands of Occupants Per Year Protected Under Different Options 
+Option Activity Performed 
+Children 
+Under Age  
+6 
+Pregnant 
+Women 
+Other 
+Individuals Age 
+6 and Older Total 
+Dust Wipe Testing 855 103 7,930 8,888 
+Clearance 27 2 158 187 
+Low Threshold 
+ 
+Total 882 105 8,088 9,075 
+Dust Wipe Testing 782 94 7,294 8,170 
+Clearance 27 2 158 187 Proposed Threshold  
+Total 809 96 7,451 8,356 
+Dust Wipe Testing 682 81 6,377 7,140 
+Clearance 24 2 130 156 High Threshold 
+Total 706 83 6,507 7,296 
+Dust Wipe Testing 782 94 7,294 8,170 
+Clearance 27 2 158 187 Third Party Sampling 
+Total 809 96 7,451 8,356 
+Dust Wipe Testing Only Dust Wipe Testing  809 96 7,451 8,356 
+Clearance Only Clearance  809 96 7,451 8,356 
+ 
+Small Entity Impacts 
+The Regulatory Flexibility Act (RFA) of 1980, amended by the Small Business Regulatory Enforcement 
+Fairness Act (SBREFA) of 1996, requires regulators to assess the effects of regulations on small entities 
+including businesses, nonprofit organizations, and governments.  The vast majority of entities in the 
+industries affected by the proposed rule are small.   
+Two factors are evaluated in analyzing the rule’s impacts on small entities, (1) the number of firms that 
+would experience the impact, and (2) the size of the impact.  Average annual compliance costs as a 
+percentage of average annual revenues are used to assess the potential average impact of the rule on small 
+businesses and small governments.  This ratio is a good measure of entities’ ability to afford the costs 
+attributable to a regulatory requirement, because comparing compliance costs to revenues provides a 
+reasonable indication of the magnitude of the regulatory burden relative to a commonly available measure 
+of economic activity.  Where regulatory costs represent a small fraction of a typical entity’s revenues, the 
+financial impacts of the regulation on such entities may be considered as not significant.  For non-profit 
+organizations, impacts are measured by comparing rule costs to the organization’s annual expenditures.  
+When expenditure data were not available, however, revenue information was used as a proxy for 
+expenditures.  It is appropriate to calculate the impact ratios using annualized costs, because these costs 
+are more representative of the continuing costs entities face to comply with the rule. 
+Table ES-7 presents the total number of small governments, non-profit organizations, and small for-profit 
+businesses, and the average cost-to-revenue ratios for each category.  It is estimated that a total of 
+approximately 203,000 small entities would be affected by the program, including nearly 203,000 small 
+businesses with average impacts of 0.5 percent, about 200 small non-profits with average impacts of 0.1 
+percent, and over 100 small governments with average impacts of 0.004 percent.  All of the small entity 
+impact calculations assume that the small entities absorb all of the rule’s costs, and that none of the costs 
+are passed through to their customers.   
+ 
+Economic Analysis for the LRRP Clearance Proposed Rule 
+ 
+Table ES-7: Aggregate Small Entity Impacts of the Proposed Rule 
+  
+Total Number of Small 
+Entities Affected (thousands)
+Average Impacts, 
+All Small Entities 
+Small Governments 0.1 0.004% 
+Non-Profit Organizations 0.2 0.1% 
+Small For-Profit Businesses 202.7 0.5% 
+Total 203 0.5% 
+ 
+The cost of the proposed rule to a typical small entity is estimated to average $1,200 per year, but will 
+vary depending on the number of renovation, repair, and painting events undertaken by a small entity in 
+the industry sector involved.  As shown in Table ES-8, the average cost impact ranges from about 0.004 
+percent to 1.1 percent of revenues, depending on the industry sector.   
+ 
+ Table ES-8: Typical-Year Number of Small Entities with RRP Events (Proposed Option) 
+ Description Entity Type Number of 
+Small 
+Entities 
+(thousands)  
+Average 
+Cost-Impact 
+Ratio 
+Residential remodelers Business 68.4 0.5% 
+Finish carpentry contractors Business 48.6 0.8% 
+Tile and terrazzo contractors Business 6.9 0.7% 
+Plumbing and HVAC contractors Business 23.4 0.4% 
+Painting and wall covering contractors Business 27.0 1.1% 
+Electrical contractors Business 16.6 0.5% 
+Drywall and insulation contractors Business 11.4 0.5% 
+Public School Districts Government 0.1 0.004% 
+Private Schools Non-Profit 0.1 0.08% 
+Daycare Centers Non-Profit 0.1 0.2% 
+Non-Residential Landlords Business 0.1 0.4% 
+Non-Residential Contractors (working in public or 
+commercial building COFs) 
+Business 
+0.3 0.4% 
+Total   203 0.5% 
+ 
+Table ES-9 provides additional information on potential impacts on small residential construction 
+establishments.  Some of the small entities subject to the rule have employees while others are non-
+employers.  The non-employers typically perform fewer jobs than firms with employees, and thus have 
+lower work practice compliance costs.  However, they also have lower average revenues than entities 
+with employees, so their impacts (measured as costs divided by revenues) can be higher.  Impact 
+estimates for non-employers should be interpreted with caution, as some non-employers may have issues 
+related to understatement of income, which would tend to exaggerate the average impact ratio for this 
+class of small entities.  As shown in Table ES-9, there are 151,000 non-employer renovation contractors 
+estimated to be affected by the removal of the opt-out provision.  The average cost to these contractors is 
+estimated to be $700 each.  This represents 0.7% to 2.6% of reported revenues, depending on the industry 
+sector.   
+ 
+ Executive Summary ES-11 
+Economic Analysis for the LRRP Clearance Proposed Rule 
+ 
+Table ES-9: Cost-to-Revenue Ratios: Small Residential Construction Establishments 
+(Proposed Option) 
+Category NAICS Industry Description 
+Number of 
+Small 
+Entities  
+(thousands) 
+Avg. Cost-
+Impact 
+Ratio 
+236118 Residential remodelers 48 1.9%
+238350 Finish carpentry contractors 41 2.1%
+238340 Tile and terrazzo contractors 6 1.7%
+238220 Plumbing and HVAC contractors 13 1.1%
+238320 Painting and wall covering contractors 23 2.6%
+238210 Electrical contractors 10 1.6%
+238310 Drywall and insulation contractors 10 0.7%
+Non-Employers 
+Total, Small Construction Establishments 151 1.7%
+236118 Residential remodelers 20 0.3%
+238350 Finish carpentry contractors 8 0.4%
+238340 Tile and terrazzo contractors 1 0.4%
+238220 Plumbing and HVAC contractors 10 0.3%
+238320 Painting and wall covering contractors 4 0.6%
+238210 Electrical contractors 6 0.4%
+238310 Drywall and insulation contractors 2 0.4%
+Employers 
+Total, Small Construction Establishments 52 0.4%
+236118 Residential remodelers 68 0.5%
+238350 Finish carpentry contractors 49 0.8%
+238340 Tile and terrazzo contractors 7 0.7%
+238220 Plumbing and HVAC contractors 23 0.4%
+238320 Painting and wall covering contractors 27 1.1%
+238210 Electrical contractors 17 0.5%
+238310 Drywall and insulation contractors 11 0.5%
+Employers and 
+Non-Employers 
+Combined 
+Total, Small Construction Establishments 202 0.5%
+ 
+ Executive Summary ES-12 
+Economic Analysis for the LRRP Clearance Proposed Rule 
+ 
+ Chapter 1 1-1 
+1. Introduction 
+This report presents an economic analysis of alternative regulatory options for revising the lead, 
+renovation, repair and painting (LRRP) program regulations for target housing and child occupied 
+facilities (COFs).  The LRRP rule for target housing and COFs was promulgated in 2008 (73 FR 21692) 
+and is codified in Part 745 of Title 40 of the Code of Federal Regulations (CFR).  The rule was 
+promulgated under the authority of §402(c) of the Toxic Substances Control Act (TSCA).  Section IV of 
+TSCA was established by the Residential Lead-Based Paint Hazard Reduction Act of 1992, also known 
+as Title X of the Housing and Community Development Act of 1992, Public Law 102-550.    
+The existing LRRP regulations require entities that perform renovation, repair and painting work for 
+compensation in buildings covered by the rule to become certified by EPA, ensure that their employees 
+are trained as either renovators or workers, and use lead-safe work practices when disturbing lead-based 
+paint.   
+Past use of lead-based paint has resulted in contamination that continues to pose human health hazards.  
+While intact lead-based paint is not likely to contribute to such hazards, the deterioration of a structure 
+over time or acute environmental stresses, such as are commonly present during renovation activities, has 
+been found to create lead hazards.  Since many buildings constructed before 1978 have lead-based paint, 
+it is likely that renovation activities in pre-1978 buildings will contribute to lead hazards unless 
+appropriate containment and clean-up practices are employed. 
+The proposed LRRP Clearance Rule includes the following changes to the LRRP program: (1) a 
+requirement to perform dust wipe testing for a subset of renovation activities, and (2) a requirement to 
+perform dust wipe testing and achieve clearance for a second subset of renovation activities where the 
+quantity and characteristics of the dust make it hard to clean up.   
+1.1 Purpose of the LRRP Rule Revisions 
+The LRRP rule requires certification of entities that perform renovation, repair and/or painting in 
+buildings covered by the regulations.  This includes construction contractors (including sole practitioners) 
+as well as landlords and other building owners (such as school districts) that may perform RRP activities 
+using their own staff.  It does not, however, cover renovation, repair and painting (RRP) work performed 
+by homeowners on their own homes.  The certified entity must ensure that all persons performing RRP 
+activities on behalf of the entity in buildings covered by the rule are either renovators who have received 
+formal training in EPA-approved work practices from an EPA-accredited course or workers who have 
+received on-the-job training in these approved work practices.  In addition, the rule requires the use of 
+these approved work practices to ensure that proper cleanup has occurred.   
+The proposed rule will require renovation firms to perform dust wipe testing after certain types of 
+renovation activities and to provide copies of the test results to the owners and occupants of the renovated 
+buildings.  These requirements will serve to inform the owners and occupants of the remaining post-
+renovation lead-dust levels.  In instances when clearance must be achieved, owners and occupants would 
+be provided with the information that the renovated areas met lead-dust level standards after cleaning.  
+The increased information provided to owners and occupants of renovated buildings will further protect 
+individuals (including children under age 6 and pregnant women), who visit, move into, or live adjacent 
+to target housing or COFs renovated under the existing LRRP requirements, from exposure to lead 
+hazards due to renovation activities. 
+1.2 Goal of the Economic Analysis  
+The purpose of this report is to analyze various options for the LRRP rulemaking revisions.  The report 
+addresses the requirements for economic analysis of Executive Order 12866 – Regulatory Planning and 
+Economic Analysis for the LRRP Clearance Proposed Rule 
+ 
+ Chapter 1 1-2 
+Review; the Regulatory Flexibility Act (RFA) and the Small Business Regulatory Enforcement Fairness 
+Act (SBRFA); Executive Order 12898 – Federal Actions to Address Environmental Justice in Minority 
+Populations and Low-Income Populations; Executive Order 13045 – Protection of Children from 
+Environmental Health Risks and Safety Risks; the Unfunded Mandates Reform Act; Executive Order 
+12875 – Enhancing the Intergovernmental Partnership; and the Paperwork Reduction Act (PRA). 
+This economic analysis considers various regulatory options.  The three primary options considered in 
+this analysis only differ in the size thresholds that trigger the rule’s requirements when performing certain 
+renovation activities.   Table 1-1 summarizes the options considered in this analysis; they are described in 
+more detail below. 
+1. Low Threshold Option 
+ All event types requiring dust wipe testing where the amount of lead-based paint 
+disturbed is larger than 6 square feet.  
+ Clearance is required for: 
+- high-speed machine removal of paint larger than 6 square feet, and 
+- plaster removal using destructive means, larger than 6 square feet. 
+2. Proposed Threshold Option 
+ Dust wipe testing is required for: 
+- cabinet and trim events larger than 40 square feet, 
+- scraping of paint larger than 60 square feet, 
+- heat gun removal of more than 6 square feet 
+- Window frame or door frame removal events 
+ Clearance is required for: 
+- high-speed machine removal of paint larger than 6 square feet, and 
+- plaster removal using destructive means, larger than 6 square feet. 
+3. High Threshold Option 
+ Dust wipe testing is required for: 
+- cabinet and trim events larger than 80 square feet, 
+- scraping or heat gun removal of paint larger than 120 square feet, and  
+- window frame or door frame removal events. 
+ Clearance is required for: 
+- high-speed machine removal of paint larger than 60 square feet, and 
+- plaster removal using destructive means, larger than 60 square feet. 
+ 
+There are three alternative options in addition to the three primary options: (1) an option where third party 
+dust wipe testing and clearance is required, (2) an option where dust wipe testing is required in lieu of the 
+clearance required under the proposed option, (3) an option where clearance is required in lieu of the dust 
+wipe testing required

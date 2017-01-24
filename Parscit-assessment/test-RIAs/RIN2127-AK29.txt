@@ -1,0 +1,156 @@
+ 
+ 
+U.S. Department 
+Of Transportation 
+ 
+PRELIMINARY REGULATORY IMPACT ANALYSIS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CORPORATE AVERAGE FUEL   
+ECONOMY FOR   
+MY 2011-2015  
+PASSENGER CARS and 
+LIGHT TRUCKS  
+ 
+ 
+ 
+ 
+ 
+ 
+Office of Regulatory Analysis and Evaluation  
+National Center for Statistics and Analysis  
+April 2008 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+ 
+  
+Executive Summary ......................................................................................... i 
+ 
+I. Introduction........................................................................................ I-1 
+ 
+II. Need of the Nation to Conserve Energy ............................................II-1 
+ 
+III. Regulatory Alternatives ....................................................................III-1 
+ 
+IV. Impact of Other Motor Vehicle Standards on Fuel Economy ..........IV-1 
+Vehicle Size and Safety ....................................................................IV-7 
+The Impact of Emission Standards ..................................................IV-18 
+ 
+ 
+V. Fuel Economy Enhancing Technologies and the Volpe Model........ V-1  
+The Volpe Model ............................................................................. V-52 
+Penetration of Technologies by Alternative ................................... V-127 
+ 
+VI. Manufacturer Specific CAFE Capabilities .......................................VI-1 
+ 
+VII. Cost Impacts..................................................................................... VII-1 
+The Impact of Higher Prices on Sales …………………… ……...VII-41 
+Potential Impact on Employment ………………………………...VII-53 
+ 
+VIII. Benefits .......................................................................................... VIII-1 
+Discount Rate.................................................................................. VIII-1 
+Sales Projections ............................................................................. VIII-3 
+The “Rebound Effect”..................................................................... VIII-5 
+On-Road Fuel Economy Adjustment………………………………VIII-8 
+Benefits from Fuel Savings............................................................. VIII-9 
+Other Economic Benefits from Reducing Petroleum Use ............. VIII-21 
+ 
+ 
+TABLE OF CONTENTS cont. 
+ 
+Emissions Reductions Resulting from Fuel Savings ..................... VIII-25 
+Summary of Benefits .................................................................... VIII-36 
+ 
+IX. Net Benefits and Sensitivity Analysis...............................................IX-1 
+Payback Period.................................................................................IX-14 
+ 
+X. Probabilistic Uncertainty Analysis ................................................... X-1 
+ 
+XI. Regulatory Flexibility Act and Unfunded Mandates Reform Act ...XI-1 
+ 
+Appendix A:  Required MPG Levels............................................................ A-1 
+ 
+  
+i
+ 
+ 
+EXECUTIVE SUMMARY 
+ 
+ 
+This assessment examines the costs and benefits of improving the fuel economy of passenger 
+cars and light trucks for model years (MY) 2011- 2015.  It includes a discussion of the 
+technologies that can improve fuel economy, analysis of the potential impact on retail prices, 
+safety, lifetime fuel savings and their value to consumers, and other societal benefits such as 
+improved energy security and reduced emissions of pollutants and greenhouse gases1.   
+ 
+In the previous rulemaking, the agency reformed the corporate average fuel economy (CAFE) 
+standards for light trucks with a size-based standard based on footprint2.  This rulemaking 
+continues this approach for both passenger cars and light trucks.  A continuous mathematical 
+function provides a separate fuel economy target for each footprint.  Different parameters for the 
+continuous mathematical function are derived for each model year.  Individual manufacturers 
+will be required to comply with a single fuel economy level that is based on the distribution of its 
+production among the footprints of its vehicles in each particular model year.  Although the same 
+reformed CAFE scheme is proposed for both passenger cars and light trucks, they are established 
+with different continuous mathematical functions specific to their design capabilities.    
+ 
+The agency is proposing the “Optimized (7%)” alternative.  In this alternative the agency uses a 
+7 percent discount rate to value benefits and sets the proposed mpg levels where marginal costs 
+equal marginal benefits.  It is one of six alternatives examined in the analysis.  We also examined 
+a second optimized scenario when discounting benefits at 3 percent “Optimized (3%).  In general 
+order of increasing severity (see Table 1), the seven scenarios examined are: 
+ 
+1:  “25% Below Optimized”:   This alternative mirrors the absolute difference in mpg derived 
+from the 25% Above Optimized scenario in going the same mpg amount below the Optimized 
+7% alternative  
+2:  “Optimized (7%) An increase in the standard based upon availability of technologies and a 
+marginal cost/benefit analysis, as was used in setting the MY 2008-2011 light truck standard.  
+The mpg levels are set using a 7 percent discount rate for benefits.   
+3:  “25% Above Optimized”:   This alternative looks at the mpg levels of the Optimized (7%) 
+and the Total Cost Equals Total Benefit alternative and picks mpg levels that are 25 percent of 
+that difference.   
+                                                 
+1  This analysis does not contain NHTSA’s assessment of the potential environmental impacts of the proposed 
+standards and reasonable alternatives for purposes of the National Environmental Policy Act (NEPA), 42 U.S.C. 
+4321-4347.  On March 28, 2008, NHTSA published a notice of intent to prepare an environmental impact statement 
+(EIS) and opened the NEPA scoping process (73 FR 16615).  NHTSA will consider the potential environmental 
+impacts of the proposed standards and reasonable alternatives through the NEPA process, and NHTSA’s NEPA 
+analysis will inform any further action on the proposed standards, consistent with NEPA and EPCA. 
+2  Vehicle Footprint is defined as the wheelbase (the distance from the center of the front axle to the center of the 
+rear axle) times the average track width (the distance between the centerline of the tires) of the vehicle (in square 
+feet).  
+  
+ii
+4:  “50% Above Optimized”:   This alternative looks at the mpg levels of the Optimized (7%) 
+and the Total Cost Equals Total Benefit alternative and picks mpg levels that are 50 percent of 
+that difference.   
+5:  “Optimized (3%) An increase in the standard based upon availability of technologies and a 
+marginal cost/benefit analysis, as was used in setting the MY 2008-2011 light truck standard, 
+except that the mpg levels are set using a 3 percent discount rate for benefits.   
+6:  “Total Costs Equal Total Benefits”:  An increase in the standard to a point where essentially 
+total costs of the technologies added equals total benefits.  In this analysis, for brevity, at times it 
+is labeled “TC = TB”.    
+7:  “Technology Exhaustion”:  An increase in the standard based upon the maximum usage 
+(based on NHTSA’s perspective) of available technologies, disregarding the cost impacts.     
+  
+Table 1a shows the agency’s projection of the actual harmonic average that would be achieved 
+by the manufacturers, assuming those manufacturers whose plans are above the requirements 
+would achieve those higher levels.  Table 1b shows the estimated required levels.  All of the 
+tables in this analysis compare an adjusted baseline to the achieved harmonic average in Table 
+1a.   
+    
+Costs:  Costs were estimated based on the specific technologies that were applied to improve 
+each manufacturer’s fuel economy up to the level required under each alternative.  Table 2  
+provides those cost estimates on an average per-vehicle basis, and Table 3 provides those 
+estimates on a fleet-wide basis in millions of dollars.  Costs are not discounted. 
+ 
+Benefits:  Benefits are determined mainly
